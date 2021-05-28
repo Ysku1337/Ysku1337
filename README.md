@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ysku1337/Ysku1337">
-    <img src="images/averagetransparent.png" alt="Logo" width="80" height="80">
+    <img src="images/averagetransparent.png" alt="Logo" width="480" height="200">
   </a>
 
   <h3 align="center">Best-README-Template</h3>

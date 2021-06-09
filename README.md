@@ -57,12 +57,10 @@ Before 3 Years I started to code things for games like CS:GO (ImGui), Minecraft 
 
 Now today, I'm more coding on Private stuff like a Minecraft external Cheat, CS:GO Internal for friends and me...
 
+
 ~Ysku
 
-----------------------|
-## Contact            |
-                      |
-Discord: - Ysku#6405  |
-                      |
-Telegram - @Yskuxd    |
-----------------------|
+
+## Contact
+Discord: - Ysku#6405
+Telegram - @Yskuxd

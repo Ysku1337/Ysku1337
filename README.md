@@ -26,8 +26,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About me</a>
-    <li><a href="#usage">Contacts</a></li>
+      <a href="#about-me">About me</a>
+    <li><a href="#contact">Contacts</a></li>
 
   </ol>
 </details>

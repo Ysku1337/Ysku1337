@@ -62,6 +62,7 @@ I'm pretty new to Github btw
 
 ~Ysku
 
+      <a href="https://github.com/Ysku1337/Ysku1337/blob/master/LICENSE.txt">License</a>
 
 ## Contact
 Discord: - Ysku#6405

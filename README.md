@@ -56,6 +56,8 @@ I also tried one year later to learn C#, because I enjoyed memory hacking. (memo
 Before 3 Years I started to code things for games like CS:GO (ImGui), Minecraft (external C#) or APIs.
 
 Now today, I'm more coding on Private stuff like a Minecraft external Cheat, CS:GO Internal for friends and me...
+  
+I'm pretty new to Github btw
 
 
 ~Ysku

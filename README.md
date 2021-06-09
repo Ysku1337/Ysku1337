@@ -27,7 +27,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About me</a>
-      <a href="#getting-started">My projects</a>
     <li><a href="#usage">Contacts</a></li>
 
   </ol>

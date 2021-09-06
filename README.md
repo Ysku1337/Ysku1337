@@ -8,7 +8,7 @@
   <h3 align="center">Portofolio of Ysku</h3>
 
   <p align="center">
-    Languages: C++/C#/Python ( + HTML, PHP experience)
+    Languages: C++/C# ( + HTML, PHP experience)
     <br />
     <a href="https://github.com/Ysku1337?tab=repositories"><strong>Explore my repositories »</strong></a>
     <br />

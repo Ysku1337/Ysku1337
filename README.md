@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About me:
 
-Leader / Head Developer of https://averagecheat.de
+Leader / Head Developer of https://average.rip
 
 German
 

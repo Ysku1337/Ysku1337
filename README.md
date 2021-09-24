@@ -15,7 +15,7 @@
     <br />
     <a href="https://github.com/Ysku1337/mydiscord/blob/main/README.md">My Discord</a>
     ·
-    <a href="https://averagecheat.de">Website/Average</a>
+    <a href="https://average.rip">Website/Average</a>
   </p>
 </p>
 
